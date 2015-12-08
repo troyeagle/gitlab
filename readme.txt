@@ -1,2 +1,2 @@
-this is a git learning program
-this is git line 2
+Git is a distributed version control system
+Git is a free software distributed under the GPL
